@@ -3,11 +3,6 @@
 > Find out how much life cover your family actually needs, see which type of plan fits, and book an advisor, in four steps.
 
 SecureNest is a front-end web app built for a BFSI hackathon problem: *"Intelligent Life Insurance Needs Finder & Digital Advisory Platform."* It replaces a static sales funnel with a guided, explainable journey. It runs entirely in the browser, with no server and no database, and no customer data leaves the device.
-
-> **Disclaimer:** This is a student project. Premiums, returns and the advisor booking are **illustrative or simulated**. They are not real quotes, not guarantees, and not financial advice. Speak to a licensed advisor before buying insurance.
-
----
-
 ## Table of contents
 1. [Features](#features)
 2. [Quick start](#quick-start)
@@ -36,26 +31,7 @@ SecureNest is a front-end web app built for a BFSI hackathon problem: *"Intellig
 
 ## Quick start
 
-**Requirements:** a modern browser, and internet access at least once (the chart library loads from a CDN).
-
-### Option A – VS Code with Live Server (recommended)
-1. Unzip the project and open the folder in VS Code (**File → Open Folder**).
-2. Install the **Live Server** extension (VS Code will suggest it).
-3. Right-click `index.html` and choose **Open with Live Server**.
-
-### Option B – Python (no extensions)
-Open the VS Code terminal (**Ctrl + `**) in the project folder:
-```bash
-# Windows
-python -m http.server 8000
-# macOS / Linux
-python3 -m http.server 8000
-```
-Then visit http://localhost:8000
-
-### Option C – Double-click
-Open `index.html` directly in your browser.
-
+**Requirements:** a modern browser, and internet access at least once (the chart library loads from a CDN).git 
 ## Project structure
 
 ```
