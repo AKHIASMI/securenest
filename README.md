@@ -1,7 +1,5 @@
 # 🛡️ SecureNest – Life Insurance Needs Finder
-
 > Find out how much life cover your family actually needs, see which type of plan fits, and book an advisor, in four steps.
-
 SecureNest is a front-end web app built for a BFSI hackathon problem: *"Intelligent Life Insurance Needs Finder & Digital Advisory Platform."* It replaces a static sales funnel with a guided, explainable journey. It runs entirely in the browser, with no server and no database, and no customer data leaves the device.
 ## Table of contents
 1. [Features](#features)
@@ -16,7 +14,6 @@ SecureNest is a front-end web app built for a BFSI hackathon problem: *"Intellig
 10. [Troubleshooting](#troubleshooting)
 11. [Limitations](#limitations)
 12. [Roadmap](#roadmap)
-
 ---
 
 ## Features
